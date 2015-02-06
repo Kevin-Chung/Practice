@@ -1,0 +1,25 @@
+use cases / features / requirements
+
+Professors
+  - be able to see all classes and their statistics
+    - be able to see all students and their statistics within a single class
+    - each student should have a profile?
+  - be able to see all tests / quizes question bank.
+  - accept student request to join class.
+  - be able to add any type of question for a specific class (can import questions from one class to another)
+  - be able to view a test / quiz and see statistics specific to that test.
+  - be able to send notifications to all students
+
+statistics
+  - which student completes which quizz/test
+    - how student performs on test
+  - class participation / performance as a whole.
+  - performance over time.
+
+
+
+list of sidebar items
+- classes
+- tests
+- students
+- 
