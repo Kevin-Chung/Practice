@@ -1,0 +1,32 @@
+
+/*
+* Kevin Chung
+*
+*
+*/
+
+
+Hackathon notes
+
+features / requirements
+  *make groups based on proximity of other people (this should happen with only one person - group leader)
+    - use blue tooth to do this, scan and get back UID of phone, query PARSE db to check if UID is with registered app user
+    - if it is send initial contact package (just picture name and email maybe- this is for security reasons)
+    - generate list view of users in area, show pictures name and email maybe
+    - allow user to select multiple users to add in group
+
+  * once group creation happens, contact information should swap automaticlaly
+    - show ONE of the group memebers at a time in the contact creation page, allow user to edit information then confirm.
+      - REPEAT for all of the potential group members
+
+  * allow for gorup members to request meeting times.
+    - one user will request a meeting time. This will broadcast to ALL group members and they will be asked to confirm or deny their attendance. Group members can potentially request 2nd time?
+    - allow meeting times to be reoccuring
+
+  * when viewing groups, user should see all group members as list items, and potentially any meeting times that are happening.
+    - when user click on any group member, option to view contact information, and delete them from group is shown in popup dialog
+    - potentially add block feature?
+    - add feature to allow user to text or call, will open up native texting / calling function - NOT a proprietary one.
+
+  * allow user to edit account settings
+    - 
