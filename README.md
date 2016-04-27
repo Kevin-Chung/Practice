@@ -1,3 +1,3 @@
 #Practice
-sdflkmsdf
-practice fool!
+practice fool
+!
